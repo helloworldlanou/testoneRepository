@@ -16,6 +16,7 @@
 		79D6F6811D333F5800CEBE44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79D6F6801D333F5800CEBE44 /* Assets.xcassets */; };
 		79D6F6841D333F5800CEBE44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79D6F6821D333F5800CEBE44 /* LaunchScreen.storyboard */; };
 		79D6F68D1D33428F00CEBE44 /* PoppingTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 79D6F68C1D33428F00CEBE44 /* PoppingTableViewCell.m */; };
+		79D6F6901D339C0100CEBE44 /* ONEViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 79D6F68F1D339C0100CEBE44 /* ONEViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,8 @@
 		79D6F6851D333F5800CEBE44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		79D6F68B1D33428F00CEBE44 /* PoppingTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PoppingTableViewCell.h; sourceTree = "<group>"; };
 		79D6F68C1D33428F00CEBE44 /* PoppingTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PoppingTableViewCell.m; sourceTree = "<group>"; };
+		79D6F68E1D339C0100CEBE44 /* ONEViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ONEViewController.h; sourceTree = "<group>"; };
+		79D6F68F1D339C0100CEBE44 /* ONEViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ONEViewController.m; sourceTree = "<group>"; };
 		7CDA90C188B71818E68BAA28 /* Pods-Poping.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Poping.release.xcconfig"; path = "Pods/Target Support Files/Pods-Poping/Pods-Poping.release.xcconfig"; sourceTree = "<group>"; };
 		9D52BAC7FEF96D26DF9AEBCA /* Pods_Poping.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Poping.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -74,6 +77,8 @@
 				79D6F6781D333F5800CEBE44 /* AppDelegate.m */,
 				79D6F67A1D333F5800CEBE44 /* ViewController.h */,
 				79D6F67B1D333F5800CEBE44 /* ViewController.m */,
+				79D6F68E1D339C0100CEBE44 /* ONEViewController.h */,
+				79D6F68F1D339C0100CEBE44 /* ONEViewController.m */,
 				79D6F68B1D33428F00CEBE44 /* PoppingTableViewCell.h */,
 				79D6F68C1D33428F00CEBE44 /* PoppingTableViewCell.m */,
 				79815AAF1D337E6300743A76 /* navigationbar_more@2x.png */,
@@ -236,6 +241,7 @@
 				79D6F67C1D333F5800CEBE44 /* ViewController.m in Sources */,
 				79D6F68D1D33428F00CEBE44 /* PoppingTableViewCell.m in Sources */,
 				79D6F6791D333F5800CEBE44 /* AppDelegate.m in Sources */,
+				79D6F6901D339C0100CEBE44 /* ONEViewController.m in Sources */,
 				79D6F6761D333F5800CEBE44 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

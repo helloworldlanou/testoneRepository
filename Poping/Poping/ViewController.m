@@ -28,6 +28,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"这是一个测试！");
     for (NSInteger i = 0; i < 20; i ++) {
         [self.lists addObject:@"这种重中之重,我操咧"];
     }
