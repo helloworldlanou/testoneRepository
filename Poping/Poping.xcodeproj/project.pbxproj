@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1BBB5472AC3E83AE73228306 /* Pods_Poping.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D52BAC7FEF96D26DF9AEBCA /* Pods_Poping.framework */; };
+		79815AB01D337E6300743A76 /* navigationbar_more@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 79815AAF1D337E6300743A76 /* navigationbar_more@2x.png */; };
 		79D6F6761D333F5800CEBE44 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 79D6F6751D333F5800CEBE44 /* main.m */; };
 		79D6F6791D333F5800CEBE44 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 79D6F6781D333F5800CEBE44 /* AppDelegate.m */; };
 		79D6F67C1D333F5800CEBE44 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 79D6F67B1D333F5800CEBE44 /* ViewController.m */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		030E0A848831C96EB73153B9 /* Pods-Poping.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Poping.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Poping/Pods-Poping.debug.xcconfig"; sourceTree = "<group>"; };
+		79815AAF1D337E6300743A76 /* navigationbar_more@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "navigationbar_more@2x.png"; sourceTree = "<group>"; };
 		79D6F6711D333F5700CEBE44 /* Poping.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Poping.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79D6F6751D333F5800CEBE44 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		79D6F6771D333F5800CEBE44 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				79D6F67B1D333F5800CEBE44 /* ViewController.m */,
 				79D6F68B1D33428F00CEBE44 /* PoppingTableViewCell.h */,
 				79D6F68C1D33428F00CEBE44 /* PoppingTableViewCell.m */,
+				79815AAF1D337E6300743A76 /* navigationbar_more@2x.png */,
 				79D6F67D1D333F5800CEBE44 /* Main.storyboard */,
 				79D6F6801D333F5800CEBE44 /* Assets.xcassets */,
 				79D6F6821D333F5800CEBE44 /* LaunchScreen.storyboard */,
@@ -169,6 +172,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				79D6F6841D333F5800CEBE44 /* LaunchScreen.storyboard in Resources */,
+				79815AB01D337E6300743A76 /* navigationbar_more@2x.png in Resources */,
 				79D6F6811D333F5800CEBE44 /* Assets.xcassets in Resources */,
 				79D6F67F1D333F5800CEBE44 /* Main.storyboard in Resources */,
 			);
