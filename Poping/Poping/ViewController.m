@@ -29,7 +29,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     for (NSInteger i = 0; i < 20; i ++) {
-        [self.lists addObject:@"Popping"];
+        [self.lists addObject:@"这种重中之重"];
     }
     _tableView.delegate = self;
     _tableView.dataSource = self;
