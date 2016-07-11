@@ -1,0 +1,6 @@
+framework module Pods_Poping {
+  umbrella header "Pods-Poping-umbrella.h"
+
+  export *
+  module * { export * }
+}
